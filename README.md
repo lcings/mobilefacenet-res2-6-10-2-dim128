@@ -11,9 +11,10 @@ https://github.com/cnzeki/DeepLoader/tree/master/deeploader/util
 
 无论是windows还是linux平台，编译此cpp一定要用opencv4.51
 
+编译好的程序：[Release_win64.zip](https://github.com/lcings/mobilefacenet-res2-6-10-2-dim128/releases/download/v1.0/Release_win64.zip)
 opencv3.3亲测不行！搞得我怀疑人生，
-res2-6-10-2-dim256、512
-res4-8-16-4-dim128、256、512
+res2-6-10-2-dim256、512、
+res4-8-16-4-dim128、256、512、
 AMSoftmax、arcface、centerface、sphereface等模型均可参照，就不上传了
 
 #### 0x01:main.cpp result
